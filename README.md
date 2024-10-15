@@ -18,7 +18,7 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
+    git clone https://github.com/awash-dev/notcoin-clone.git
     cd Notcoin-Telegram-Mini-App-Clone
     ```
 
@@ -72,7 +72,7 @@ To get started with either the initial setup or the final version, follow these 
 
 ## Contact
 
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
+For any inquiries, please contact me in Telegram: [M0h4mm3d_Hu553n](https://t.me/M0h4mm3d_Hu553).
 
 # notcoin-clone
-# notcoin-clone
+ 
